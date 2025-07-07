@@ -1,3 +1,5 @@
+//Esse script serve para quando apertar em algum botão da nav bar ele ir suavemente até o lugar correspondente
+
 const menuLinks = document.querySelectorAll('nav a');
 console.log(menuLinks);
 menuLinks.forEach(link => {
@@ -9,9 +11,9 @@ menuLinks.forEach(link => {
 
     if (targetElement) {
         window.scrollTo({
-        top: targetElement.offsetTop,
-        behavior: 'smooth'
+            top: targetElement.offsetTop,
+            behavior: 'smooth'
         });
     }
     });
-});botao.addEventListener('click', clicar);
+});

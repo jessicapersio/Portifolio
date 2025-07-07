@@ -2,6 +2,7 @@ body {
     background-color: rgb(194, 200, 211);
     margin: 0;
 }
+/* Estilizando a barra de navegação e arrumando o alimnhamento dos links */
 nav {
     top: 0;
     position: fixed;
@@ -41,7 +42,7 @@ nav a {
     border-radius: 2px;
 
 }
-
+/*'shadow' serve para deixar o botão com um efeito de sombra quando passar o mouse por cima dele */
 .shadow:hover {
     text-decoration: none;
     color: rgb(240, 200, 175);
@@ -50,7 +51,7 @@ nav a {
     
 
 }
-
+/* Estilizando o cabeçalho */
 header {
     text-align: left;
     color: rgb(80, 76, 76);
@@ -83,7 +84,7 @@ header p {
     margin-left: 100px;
     
 }
-
+ /* Além de deixar minha foto com o tamanho que queria, adicionei um efeito para quando passar o mous em cima e nessa parte determino os segundos de transição do efeito  */
 
 #jessica {
     width: 350px;
@@ -149,12 +150,13 @@ header p {
     
     
 }
-
+  /*Aqui eu utilizei o smooth para quando apertar em algum botão da nav bar ele ir suavemente até o lugar correspondente*/
 .icons:hover {
     transform: scale(1.2);
      transition: 500ms linear;
     transition:0.3s ease-in-out;
 }
+
 #projeto {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -182,7 +184,7 @@ header p {
     transition: 500ms linear;
     transition:0.3s ease-in-out;
 }
-
+/* alinhando meus projetos em cards*/
 #cards {
     display: flex;
     flex-wrap: wrap;
@@ -236,8 +238,17 @@ header p {
     margin-top: 400px;
     margin: auto;
     padding: 30px;
+} 
+/* alinhando os contatos */
+#contato ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
+/* alinhando os contatos */
 .botao {
     height: 30px;
     width: 100px;
