@@ -36,7 +36,5 @@ Portifolio/
 ```
 
 ##  Autora
-**Jéssica Pérsio**  
-[GitHub](https://github.com/jessicapersio)  
-[LinkedIn](https://www.linkedin.com/in/jessica-persio)  
-[Email](mailto:jepersio@hotmail.com)
+**Jéssica Persio**  👩‍💻
+[GitHub](https://github.com/jessicapersio)  [LinkedIn](https://www.linkedin.com/in/jessica-persio)  [Email](mailto:jepersio@hotmail.com)
