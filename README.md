@@ -1,5 +1,46 @@
-Site Portifolio criado para projeto da faculdade
+# Portfólio | Projeto Acadêmico
 
-Esse site foi feito utilizando html, css e Javascript para um projeto da faculdade
-cuja finalidade era ser um site portifolio.
-Com esse site utilizei mais HTML e CSS puro por não conter interação com o usuário.
+![Preview do site](assets/preview.png)
+
+[![Status do site](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fjessicapersio.github.io%2FPortifolio)](https://jessicapersio.github.io/Portifolio)
+
+Este repositório contém um portfólio pessoal desenvolvido como projeto para a faculdade, com o objetivo de aplicar conhecimentos de HTML, CSS e JavaScript **sem o uso de frameworks**.
+
+##  Requisitos do Projeto
+
+- ❌ **Sem frameworks** (como Bootstrap, React, etc.)
+- ✅ Navbar visível em **todas as páginas**
+- ✅ Pelo menos **quatro links navegáveis**
+- ✅ HTML e CSS puros
+- ✅ Design limpo e navegação clara
+
+##  Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (vanilla)
+
+##  Estrutura do Projeto
+
+```bash
+Portifolio/
+├── index.html           # Página inicial
+├── sobre.html           # Página "Sobre Mim"
+├── projetos.html        # Página com projetos
+├── contato.html         # Página de contato
+├── css/
+│   └── style.css        # Estilos personalizados
+├── js/
+│   └── script.js        # Scripts JS (opcional)
+└── assets/
+    └── preview.png      # Imagem de preview (adicionar manualmente)
+```
+##  Visualização Online
+
+Você pode acessar o projeto hospedado pelo GitHub Pages:  
+👉 [Meu Portifólio](https://jessicapersio.github.io/Portifolio)
+
+##  Autora
+
+**Jéssica Pérsio**  
+[GitHub](https://github.com/jessicapersio)
