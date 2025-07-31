@@ -1,6 +1,5 @@
 # Portfólio | Projeto Acadêmico
 
-![Preview do site](assets/preview.png)
 
 [![Status do site](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fjessicapersio.github.io%2FPortifolio)](https://jessicapersio.github.io/Portifolio)
 
@@ -35,12 +34,9 @@ Portifolio/
 └── assets/
     └── preview.png      # Imagem de preview (adicionar manualmente)
 ```
-##  Visualização Online
-
-Você pode acessar o projeto hospedado pelo GitHub Pages:  
-👉 [Meu Portifólio](https://jessicapersio.github.io/Portifolio)
 
 ##  Autora
-
 **Jéssica Pérsio**  
-[GitHub](https://github.com/jessicapersio)
+[GitHub](https://github.com/jessicapersio)  
+[LinkedIn](https://www.linkedin.com/in/jessica-persio)  
+[Email](mailto:jepersio@hotmail.com)
