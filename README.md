@@ -7,11 +7,11 @@ Este repositório contém um portfólio pessoal desenvolvido como projeto para a
 
 ##  Requisitos do Projeto
 
-- ❌ **Sem frameworks** (como Bootstrap, React, etc.)
-- ✅ Navbar visível em **todas as páginas**
-- ✅ Pelo menos **quatro links navegáveis**
-- ✅ HTML e CSS puros
-- ✅ Design limpo e navegação clara
+-  **Sem frameworks** (como Bootstrap, React, etc.)
+-  Navbar visível em **todas as páginas**
+-  Pelo menos **quatro links navegáveis**
+-  HTML e CSS puros
+-  Design limpo e navegação clara
 
 ##  Tecnologias Utilizadas
 
@@ -37,4 +37,5 @@ Portifolio/
 
 ##  Autora
 **Jéssica Persio**  👩‍💻
+
 [GitHub](https://github.com/jessicapersio)  [LinkedIn](https://www.linkedin.com/in/jessica-persio)  [Email](mailto:jepersio@hotmail.com)
